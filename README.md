@@ -3,6 +3,4 @@
 ###hi
 *italics*
 **bold**
-*st
-*hello
-*hi
+*link test
