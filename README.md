@@ -1,8 +1,8 @@
 # Stzev
 ##Hello
 ###hi
-*test*
+*italics*
 **bold**
-*1
-*2
-*3
+*st
+*hello
+*hi
